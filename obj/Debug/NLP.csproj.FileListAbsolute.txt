@@ -1,0 +1,468 @@
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\MLModel.zip
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\LdaNative.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\CpuMathNative.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\NLP.exe.config
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\NLP.exe
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\NLP.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.Gax.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.Auth.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.Core.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\IronPython.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\IronPython.Modules.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\IronPython.SQLite.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\IronPython.Wpf.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.Core.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.Data.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.PCA.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.Transforms.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.Scripting.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\NLPML.Model.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Buffers.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.CodeDom.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Collections.Immutable.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Memory.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Threading.Channels.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\NLPML.Model.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.Gax.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.Gax.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.Auth.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.Core.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.Core.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\IronPython.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\IronPython.Modules.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\IronPython.SQLite.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\IronPython.Wpf.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.Core.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.Data.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.PCA.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.ML.Transforms.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.Scripting.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Buffers.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Collections.Immutable.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Memory.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Threading.Channels.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP\obj\Debug\NLP.csproj.AssemblyReference.cache
+C:\Users\uok\Documents\GitHub\NLP\obj\Debug\NLP.FormYouTubeApi.resources
+C:\Users\uok\Documents\GitHub\NLP\obj\Debug\NLP.Properties.Resources.resources
+C:\Users\uok\Documents\GitHub\NLP\obj\Debug\NLP.csproj.GenerateResource.cache
+C:\Users\uok\Documents\GitHub\NLP\obj\Debug\NLP.exe.licenses
+C:\Users\uok\Documents\GitHub\NLP\obj\Debug\NLP.csproj.CoreCompileInputs.cache
+C:\Users\uok\Documents\GitHub\NLP\obj\Debug\NLP.csproj.CopyComplete
+C:\Users\uok\Documents\GitHub\NLP\obj\Debug\NLP.exe
+C:\Users\uok\Documents\GitHub\NLP\obj\Debug\NLP.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.LongRunning.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Protobuf.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Grpc.Auth.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Grpc.Core.Api.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Grpc.Core.dll
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.LongRunning.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.LongRunning.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Protobuf.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Google.Protobuf.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Grpc.Auth.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Grpc.Auth.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Grpc.Core.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Grpc.Core.xml
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\uok\Documents\GitHub\NLP\bin\Debug\Grpc.Core.Api.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\MLModel.zip
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\LdaNative.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\CpuMathNative.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\NLP.exe.config
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\NLP.exe
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\NLP.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.Gax.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.Auth.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.Core.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.LongRunning.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Protobuf.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Grpc.Auth.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Grpc.Core.Api.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Grpc.Core.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\IronPython.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\IronPython.Modules.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\IronPython.SQLite.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\IronPython.Wpf.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.Core.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.Data.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.PCA.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.Transforms.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.Scripting.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\NLPML.Model.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Buffers.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.CodeDom.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Collections.Immutable.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Memory.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Threading.Channels.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\NLPML.Model.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.Gax.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.Gax.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.Auth.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.Core.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.Core.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.LongRunning.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.LongRunning.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Protobuf.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Google.Protobuf.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Grpc.Auth.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Grpc.Auth.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Grpc.Core.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Grpc.Core.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Grpc.Core.Api.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\IronPython.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\IronPython.Modules.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\IronPython.SQLite.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\IronPython.Wpf.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.Core.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.Data.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.PCA.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.ML.Transforms.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.Scripting.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Buffers.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Collections.Immutable.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Memory.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Threading.Channels.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\uok\Documents\GitHub\NLP - Kopya\obj\Debug\NLP.csproj.AssemblyReference.cache
+C:\Users\uok\Documents\GitHub\NLP - Kopya\obj\Debug\NLP.FormYouTubeApi.resources
+C:\Users\uok\Documents\GitHub\NLP - Kopya\obj\Debug\NLP.Properties.Resources.resources
+C:\Users\uok\Documents\GitHub\NLP - Kopya\obj\Debug\NLP.csproj.GenerateResource.cache
+C:\Users\uok\Documents\GitHub\NLP - Kopya\obj\Debug\NLP.exe.licenses
+C:\Users\uok\Documents\GitHub\NLP - Kopya\obj\Debug\NLP.csproj.CoreCompileInputs.cache
+C:\Users\uok\Documents\GitHub\NLP - Kopya\obj\Debug\NLP.csproj.CopyComplete
+C:\Users\uok\Documents\GitHub\NLP - Kopya\obj\Debug\NLP.exe
+C:\Users\uok\Documents\GitHub\NLP - Kopya\obj\Debug\NLP.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\LdaNative.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\CpuMathNative.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\MLModel.zip
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\NLP.exe.config
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\NLP.exe
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\NLP.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.Gax.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.Core.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.LongRunning.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Protobuf.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Grpc.Auth.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Grpc.Core.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\IronPython.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\IronPython.Modules.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\IronPython.SQLite.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\IronPython.Wpf.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.Core.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.Data.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.PCA.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.Transforms.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\NLPML.Model.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Buffers.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.CodeDom.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Memory.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Threading.Channels.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\NLPML.Model.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.Gax.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.Core.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.LongRunning.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.LongRunning.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Protobuf.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Google.Protobuf.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Grpc.Auth.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Grpc.Auth.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Grpc.Core.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Grpc.Core.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\IronPython.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\IronPython.Modules.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\IronPython.SQLite.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\IronPython.Wpf.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.Core.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.Data.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.PCA.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.ML.Transforms.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Buffers.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Memory.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Threading.Channels.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Hp\Desktop\NLP - Kopya\obj\Debug\NLP.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\NLP - Kopya\obj\Debug\NLP.FormYouTubeApi.resources
+C:\Users\Hp\Desktop\NLP - Kopya\obj\Debug\NLP.Properties.Resources.resources
+C:\Users\Hp\Desktop\NLP - Kopya\obj\Debug\NLP.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\NLP - Kopya\obj\Debug\NLP.exe.licenses
+C:\Users\Hp\Desktop\NLP - Kopya\obj\Debug\NLP.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\NLP - Kopya\obj\Debug\NLP.csproj.CopyComplete
+C:\Users\Hp\Desktop\NLP - Kopya\obj\Debug\NLP.exe
+C:\Users\Hp\Desktop\NLP - Kopya\obj\Debug\NLP.pdb
